@@ -9,6 +9,6 @@ Run application using
 
 Open http://localhost:8080/ in a browser.
 
-For more information regarding this example, refer to [this blog post]().
+For more information regarding this example, refer to [this blog post](https://www.flowingcode.com/en/vaadin-tree-grid-lazy-loading-filtering-sorting/).
 
 For more information on Vaadin, visit https://vaadin.com/.
